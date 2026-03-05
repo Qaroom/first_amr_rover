@@ -11,7 +11,7 @@
         xyz="-0.012052 -0.00050488 0.19209"
         rpy="0 0 0" />
       <mass
-        value="150" />
+        value="450" />
       <inertia
         ixx="30.383"
         ixy="0.028587"
@@ -712,6 +712,89 @@
   </joint>
 
 
+<gazebo reference="base_link">
+    <mu1>0.5</mu1>
+    <mu2>0.5</mu2>
+    <!-- <kp>5000000.0</kp>
+    <kd>10.0</kd>
+    <minDepth>0.001</minDepth>
+    <maxVel>0.1</maxVel>
+    <fdir1>1 0 0</fdir1>
+    <selfCollide>false</selfCollide> -->
+    <material>Gazebo/Red</material>
+  </gazebo>
+
+  <gazebo reference="right_wheel_link">
+    <mu1>5.0</mu1>
+    <mu2>5.0</mu2>
+    <!-- <kp>5000000.0</kp>
+    <kd>10.0</kd>
+    <minDepth>0.001</minDepth>
+    <maxVel>0.1</maxVel>
+    <fdir1>1 0 0</fdir1>
+    <selfCollide>false</selfCollide> -->
+    <material>Gazebo/Gray</material>
+  </gazebo>
+
+  <gazebo reference="left_wheel_link">
+    <mu1>5.0</mu1>
+    <mu2>5.0</mu2>
+    <!-- <kp>5000000.0</kp>
+    <kd>10.0</kd>
+    <minDepth>0.001</minDepth>
+    <maxVel>0.1</maxVel>
+    <fdir1>1 0 0</fdir1>
+    <selfCollide>false</selfCollide> -->
+    <material>Gazebo/Gray</material>
+  </gazebo>
+
+  <gazebo reference="front_left_support_wheel_link">
+    <mu1>0.01</mu1>
+    <mu2>0.01</mu2>
+    <!-- <kp>5000000.0</kp>
+    <kd>10.0</kd>
+    <minDepth>0.001</minDepth>
+    <maxVel>0.1</maxVel>
+    <fdir1>1 0 0</fdir1>
+    <selfCollide>false</selfCollide> -->
+    <material>Gazebo/Gray</material>
+  </gazebo>
+
+  <gazebo reference="back_left_support_wheel_link">
+    <mu1>0.01</mu1>
+    <mu2>0.01</mu2>
+    <!-- <kp>5000000.0</kp>
+    <kd>10.0</kd>
+    <minDepth>0.001</minDepth>
+    <maxVel>0.1</maxVel>
+    <fdir1>1 0 0</fdir1>
+    <selfCollide>false</selfCollide> -->
+    <material>Gazebo/Gray</material>
+  </gazebo>
+
+  <gazebo reference="front_right_support_wheel_link">
+    <mu1>0.01</mu1>
+    <mu2>0.01</mu2>
+    <!-- <kp>5000000.0</kp>
+    <kd>10.0</kd>
+    <minDepth>0.001</minDepth>
+    <maxVel>0.1</maxVel>
+    <fdir1>1 0 0</fdir1>
+    <selfCollide>false</selfCollide> -->
+    <material>Gazebo/Gray</material>
+  </gazebo>
+
+  <gazebo reference="back_right_support_wheel_link">
+    <mu1>0.01</mu1>
+    <mu2>0.01</mu2>
+    <!-- <kp>5000000.0</kp>
+    <kd>10.0</kd>
+    <minDepth>0.001</minDepth>
+    <maxVel>0.1</maxVel>
+    <fdir1>1 0 0</fdir1>
+    <selfCollide>false</selfCollide> -->
+    <material>Gazebo/Gray</material>
+  </gazebo>
 
 
 
@@ -807,6 +890,11 @@
       </plugin>
     </sensor>
   </gazebo>
+
+
+
+
+
 
   <!-- Gazebo ROS Control -->
 
