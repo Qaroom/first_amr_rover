@@ -38,15 +38,15 @@
                 <mu>200</mu>
                 <mu2>200</mu2>
                 <fdir1>0 0 0</fdir1>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
-                <coefficient>1.0</coefficient>
+                <coefficient>1</coefficient>
                 <use_patch_radius>1</use_patch_radius>
                 <patch_radius>0.1</patch_radius>
                 <ode>
-                  <slip>0.0</slip>
+                  <slip>0</slip>
                 </ode>
               </torsional>
             </friction>
@@ -128,8 +128,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -185,8 +185,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -248,8 +248,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -292,8 +292,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -323,8 +323,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -373,8 +373,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -423,8 +423,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -473,8 +473,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -523,8 +523,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -573,8 +573,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -623,8 +623,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -673,8 +673,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -723,8 +723,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -773,8 +773,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -823,8 +823,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -890,8 +890,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -947,8 +947,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -1004,8 +1004,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -1061,8 +1061,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -1118,8 +1118,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -1142,14 +1142,14 @@
       </link>
       <pose>-18.3765 -12.2009 0.071999 1e-06 -8e-06 -0.013016</pose>
     </model>
-    <model name='stand_1'>
-      <static>0</static>
-      <link name='base_link'>
-        <collision name='top_plate_col'>
-          <pose>0 0 0.46 0 -0 0</pose>
+    <model name='stand_1_legs'>
+      <static>1</static>
+      <link name='walls_link'>
+        <collision name='left_wall_col'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>1.6 1.2 0.02</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -1162,8 +1162,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -1171,62 +1171,24 @@
             </friction>
           </surface>
         </collision>
-        <visual name='top_plate_vis'>
-          <pose>0 0 0.46 0 -0 0</pose>
+        <visual name='left_wall_vis'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>1.6 1.2 0.02</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.72 0.72 0.75 1</ambient>
-            <diffuse>0.72 0.72 0.75 1</diffuse>
-            <specular>0.5 0.5 0.5 1</specular>
-          </material>
-        </visual>
-        <collision name='leg_fl_col'>
-          <pose>0.72 -0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <contact>
-              <ode/>
-            </contact>
-            <bounce/>
-            <friction>
-              <ode>
-                <mu>10</mu>
-                <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-          </surface>
-        </collision>
-        <visual name='leg_fl_vis'>
-          <pose>0.72 -0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <material>
             <ambient>0.6 0.6 0.63 1</ambient>
             <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
           </material>
         </visual>
-        <collision name='leg_fr_col'>
-          <pose>0.72  0.53 0.225 0 -0 0</pose>
+        <collision name='right_wall_col'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -1239,8 +1201,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -1248,92 +1210,17 @@
             </friction>
           </surface>
         </collision>
-        <visual name='leg_fr_vis'>
-          <pose>0.72  0.53 0.225 0 -0 0</pose>
+        <visual name='right_wall_vis'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <material>
             <ambient>0.6 0.6 0.63 1</ambient>
             <diffuse>0.6 0.6 0.63 1</diffuse>
-          </material>
-        </visual>
-        <collision name='leg_rl_col'>
-          <pose>-0.72 -0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <contact>
-              <ode/>
-            </contact>
-            <bounce/>
-            <friction>
-              <ode>
-                <mu>10</mu>
-                <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-          </surface>
-        </collision>
-        <visual name='leg_rl_vis'>
-          <pose>-0.72 -0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.6 0.6 0.63 1</ambient>
-            <diffuse>0.6 0.6 0.63 1</diffuse>
-          </material>
-        </visual>
-        <collision name='leg_rr_col'>
-          <pose>-0.72  0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <contact>
-              <ode/>
-            </contact>
-            <bounce/>
-            <friction>
-              <ode>
-                <mu>10</mu>
-                <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-          </surface>
-        </collision>
-        <visual name='leg_rr_vis'>
-          <pose>-0.72  0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.6 0.6 0.63 1</ambient>
-            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
           </material>
         </visual>
         <inertial>
@@ -1354,79 +1241,139 @@
       </link>
       <pose>5 3 0 0 -0 0</pose>
     </model>
+    <model name='stand_1_top'>
+      <static>0</static>
+      <link name='top_link'>
+        <collision name='top_plate_col'>
+          <pose>0 0 0.46 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>1.6 1.2 0.02</size>
+            </box>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <ode>
+                <mu>10</mu>
+                <mu2>10</mu2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='top_plate_vis'>
+          <pose>0 0 0.46 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>1.6 1.2 0.02</size>
+            </box>
+          </geometry>
+          <material>
+            <ambient>0.72 0.72 0.75 1</ambient>
+            <diffuse>0.72 0.72 0.75 1</diffuse>
+            <specular>0.5 0.5 0.5 1</specular>
+          </material>
+        </visual>
+        <inertial>
+          <mass>10</mass>
+          <inertia>
+            <ixx>0.8</ixx>
+            <iyy>1.3</iyy>
+            <izz>2</izz>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyz>0</iyz>
+          </inertia>
+          <pose>0 0 0 0 -0 0</pose>
+        </inertial>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>5 3 0 0 -0 0</pose>
+    </model>
     <state world_name='default'>
       <sim_time>0 0</sim_time>
       <real_time>0 0</real_time>
-      <wall_time>1773144780 438962095</wall_time>
+      <wall_time>1773323299 256160880</wall_time>
       <iterations>0</iterations>
       <model name='euro_pallet'>
-        <pose>-17.718 0.322652 0.542004 0 8e-06 -0.01331</pose>
+        <pose>-17.7184 0.322509 0.541964 -3.1e-05 3.2e-05 -0.013333</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-17.718 0.322652 0.542004 0 8e-06 -0.01331</pose>
-          <velocity>-0.003173 0.001045 0.003375 0.001197 0.003122 -0.000418</velocity>
-          <acceleration>-2.36288 -2.96738 -7.10598 -2.48905 0.787196 -0.522129</acceleration>
-          <wrench>-47.2576 -59.3476 -142.12 0 -0 0</wrench>
+          <pose>-17.7184 0.322509 0.541964 -3.1e-05 3.2e-05 -0.013333</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>1.31912 1.5935 -15.4033 0.748025 1.30829 -2.95817</acceleration>
+          <wrench>26.3823 31.8699 -308.066 0 -0 0</wrench>
         </link>
       </model>
       <model name='euro_pallet_clone'>
-        <pose>-17.6523 4.44673 0.541997 1e-06 -1.2e-05 -0.020338</pose>
+        <pose>-17.6526 4.44651 0.541984 -5e-06 -3e-05 -0.020449</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-17.6523 4.44673 0.541997 1e-06 -1.2e-05 -0.020338</pose>
-          <velocity>-0.004937 6.2e-05 -0.001558 0.000624 -0.008332 -0.002372</velocity>
-          <acceleration>-6.0524 1.42301 -4.22064 -2.52499 -1.35207 -1.61312</acceleration>
-          <wrench>-121.048 28.4603 -84.4128 0 -0 0</wrench>
+          <pose>-17.6526 4.44651 0.541984 -5e-06 -3e-05 -0.020449</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>-1.59636 0.307381 -4.68179 -1.16106 1.50367 -2.70693</acceleration>
+          <wrench>-31.9272 6.14763 -93.6357 0 -0 0</wrench>
         </link>
       </model>
       <model name='euro_pallet_clone_0'>
-        <pose>-17.6047 13.0952 0.542 0 -0 -0.015719</pose>
+        <pose>-17.605 13.095 0.541953 -3e-06 -0.000136 -0.015769</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-17.6047 13.0952 0.542 0 -0 -0.015719</pose>
-          <velocity>-0.002914 -0.001667 0.00937 -0.001295 0.003006 2e-06</velocity>
-          <acceleration>4.30538 -2.65803 20.3035 0.382314 1.11632 2.4064</acceleration>
-          <wrench>86.1076 -53.1606 406.071 0 -0 0</wrench>
+          <pose>-17.605 13.095 0.541953 -3e-06 -0.000136 -0.015769</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>-2.31256 0.283425 -14.2254 -3.05642 -0.456654 -3.10849</acceleration>
+          <wrench>-46.2511 5.66849 -284.508 0 -0 0</wrench>
         </link>
       </model>
       <model name='euro_pallet_clone_1'>
-        <pose>-17.6108 -3.68883 0.541994 -0 1e-06 -0.012878</pose>
+        <pose>-17.6111 -3.68893 0.541921 2.7e-05 -1.2e-05 -0.012866</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-17.6108 -3.68883 0.541994 -0 1e-06 -0.012878</pose>
-          <velocity>-0.003465 -0.000376 -0.005683 0.0001 0.007182 -0.005205</velocity>
-          <acceleration>-4.1499 -5.23975 -9.66008 -3.06293 -0.665278 1.10349</acceleration>
-          <wrench>-82.998 -104.795 -193.202 0 -0 0</wrench>
+          <pose>-17.6111 -3.68893 0.541921 2.7e-05 -1.2e-05 -0.012866</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>2.29444 0.68043 -18.2299 -2.88236 -1.08446 0.08189</acceleration>
+          <wrench>45.8887 13.6086 -364.599 0 -0 0</wrench>
         </link>
       </model>
       <model name='euro_pallet_clone_2'>
-        <pose>-17.5632 -7.97904 0.541995 -5e-06 1.3e-05 -0.015747</pose>
+        <pose>-17.5634 -7.97923 0.541951 4e-06 -7e-06 -0.015895</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-17.5632 -7.97904 0.541995 -5e-06 1.3e-05 -0.015747</pose>
-          <velocity>0.005619 0.00222 -0.008 0.004216 0.012538 -0.001218</velocity>
-          <acceleration>-0.071609 0.106221 -9.91879 -0.627209 -0.956482 -0.006705</acceleration>
-          <wrench>-1.43217 2.12441 -198.376 0 -0 0</wrench>
+          <pose>-17.5634 -7.97923 0.541951 4e-06 -7e-06 -0.015895</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>-0.149476 0.823863 -20.8126 1.75903 -0.316088 2.86658</acceleration>
+          <wrench>-2.98952 16.4773 -416.251 0 -0 0</wrench>
         </link>
       </model>
       <model name='euro_pallet_clone_3'>
-        <pose>-17.6417 -12.1816 0.541994 0 1.5e-05 -0.017321</pose>
+        <pose>-17.642 -12.1818 0.541989 1.5e-05 -7e-06 -0.01745</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-17.6417 -12.1816 0.541994 0 1.5e-05 -0.017321</pose>
-          <velocity>0.002774 0.002219 -0.010799 -0.009177 0.040704 -0.002881</velocity>
-          <acceleration>2.15866 7.93077 -11.1248 1.39522 0.852094 0.398729</acceleration>
-          <wrench>43.1733 158.615 -222.495 0 -0 0</wrench>
+          <pose>-17.642 -12.1818 0.541989 1.5e-05 -7e-06 -0.01745</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>-0.345139 -1.1715 -8.31194 -2.11845 0.018389 -3.13049</acceleration>
+          <wrench>-6.90278 -23.4301 -166.239 0 -0 0</wrench>
         </link>
       </model>
       <model name='euro_pallet_clone_clone'>
-        <pose>-17.5747 8.46063 0.541992 1.1e-05 -6e-06 -0.015487</pose>
+        <pose>-17.5751 8.46039 0.541998 1.5e-05 5e-06 -0.015588</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-17.5747 8.46063 0.541992 1.1e-05 -6e-06 -0.015487</pose>
-          <velocity>-0.003003 -0.001275 -0.006356 0.014769 -0.015477 0.000523</velocity>
-          <acceleration>-3.17093 -2.0776 -4.51423 2.48876 1.55975 0.188727</acceleration>
-          <wrench>-63.4185 -41.552 -90.2846 0 -0 0</wrench>
+          <pose>-17.5751 8.46039 0.541998 1.5e-05 5e-06 -0.015588</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0.471822 -1.36312 8.66723 -2.7718 -0.388273 -2.83074</acceleration>
+          <wrench>9.43645 -27.2625 173.345 0 -0 0</wrench>
         </link>
       </model>
       <model name='factory_depo'>
@@ -1516,73 +1463,73 @@
         </link>
       </model>
       <model name='payload_box'>
-        <pose>-17.6583 -12.1946 0.997463 3.1e-05 -0.000112 -0.002679</pose>
+        <pose>-17.6588 -12.1948 0.997451 2.3e-05 4.6e-05 -0.002745</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-17.6583 -12.1946 0.997463 3.1e-05 -0.000112 -0.002679</pose>
-          <velocity>0.000575 0.000482 0.011561 0.006119 -0.013405 -0.003248</velocity>
-          <acceleration>12.5071 9.71599 16.2686 -2.22385 -0.507826 2.84611</acceleration>
-          <wrench>187.607 145.74 244.029 0 -0 0</wrench>
+          <pose>-17.6588 -12.1948 0.997451 2.3e-05 4.6e-05 -0.002745</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>-0.136998 0.61504 -7.84382 0.660106 -0.803741 0.993605</acceleration>
+          <wrench>-2.05498 9.2256 -117.657 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone'>
-        <pose>-17.5831 -7.98334 0.997446 -1.8e-05 2e-06 -0.00257</pose>
+        <pose>-17.5836 -7.98368 0.997363 7e-06 -1e-05 -0.00279</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-17.5831 -7.98334 0.997446 -1.8e-05 2e-06 -0.00257</pose>
-          <velocity>0.01241 0.003047 -0.003112 -0.003027 0.015589 -0.001367</velocity>
-          <acceleration>0.095478 -0.141627 -9.64161 0.227139 0.228931 -0.011022</acceleration>
-          <wrench>1.43217 -2.12441 -144.624 0 -0 0</wrench>
+          <pose>-17.5836 -7.98368 0.997363 7e-06 -1e-05 -0.00279</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 -9.8 0 0 -2e-06</acceleration>
+          <wrench>0 0 -147 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_0'>
-        <pose>-17.6145 -3.68899 0.997443 2e-05 1e-06 -0.000484</pose>
+        <pose>-17.6151 -3.68901 0.99734 3e-05 -1.6e-05 -0.000232</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-17.6145 -3.68899 0.997443 2e-05 1e-06 -0.000484</pose>
-          <velocity>-0.000213 0.000707 0.002707 -0.0028 0.007159 -0.005187</velocity>
-          <acceleration>-0.160621 4.79918 0.166406 -2.3865 0.576902 1.64345</acceleration>
-          <wrench>-2.40932 71.9877 2.49609 0 -0 0</wrench>
+          <pose>-17.6151 -3.68901 0.99734 3e-05 -1.6e-05 -0.000232</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 -9.8 0 -0 -5e-06</acceleration>
+          <wrench>0 0 -147 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_1'>
-        <pose>-17.7193 0.323246 0.997441 -1e-06 4e-06 -0.001157</pose>
+        <pose>-17.72 0.323062 0.997401 -3.7e-05 4e-06 -0.001268</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-17.7193 0.323246 0.997441 -1e-06 4e-06 -0.001157</pose>
-          <velocity>-0.003423 0.001392 0.002587 -0.000414 -0.001338 -0.001853</velocity>
-          <acceleration>-2.09556 -1.7013 -7.25508 -1.3091 -0.880011 1.1014</acceleration>
-          <wrench>-31.4334 -25.5194 -108.826 0 -0 0</wrench>
+          <pose>-17.72 0.323062 0.997401 -3.7e-05 4e-06 -0.001268</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>-1.75882 -2.12466 -2.32895 0.254569 -1.43677 2.83316</acceleration>
+          <wrench>-26.3823 -31.8699 -34.9342 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_2'>
-        <pose>-17.6592 4.45299 0.997435 0 -1.7e-05 -0.003464</pose>
+        <pose>-17.6596 4.4528 0.997423 -6e-06 -2.9e-05 -0.003259</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-17.6592 4.45299 0.997435 0 -1.7e-05 -0.003464</pose>
-          <velocity>-0.011563 0.002767 0.000637 -0.007101 -0.015813 -0.002455</velocity>
-          <acceleration>-7.16688 9.78667 8.45129 0.311674 -0.843274 -1.75917</acceleration>
-          <wrench>-107.503 146.8 126.769 0 -0 0</wrench>
+          <pose>-17.6596 4.4528 0.997423 -6e-06 -2.9e-05 -0.003259</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>-3.14001 6.67008 -0.976565 1.26176 0.42852 0.062636</acceleration>
+          <wrench>-47.1001 100.051 -14.6485 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_3'>
-        <pose>-17.5676 8.46149 0.997435 1e-05 -2.1e-05 -0.00192</pose>
+        <pose>-17.5684 8.46109 0.997427 -6e-06 -5e-06 -0.001764</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-17.5676 8.46149 0.997435 1e-05 -2.1e-05 -0.00192</pose>
-          <velocity>0.006401 -0.001979 -0.011738 0.00054 0.01234 0.002473</velocity>
-          <acceleration>-1.15641 -0.43717 -8.6436 1.76245 1.24115 -2.59632</acceleration>
-          <wrench>-17.3461 -6.55755 -129.654 0 -0 0</wrench>
+          <pose>-17.5684 8.46109 0.997427 -6e-06 -5e-06 -0.001764</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>5.27212 12.2397 6.85319 1.18897 -1.49669 -2.64109</acceleration>
+          <wrench>79.0817 183.595 102.798 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_4'>
-        <pose>-17.6173 13.1016 0.997468 6e-06 -7.2e-05 -0.003359</pose>
+        <pose>-17.618 13.1012 0.997394 -4e-06 -0.000221 -0.003385</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-17.6173 13.1016 0.997468 6e-06 -7.2e-05 -0.003359</pose>
-          <velocity>0.005886 0.005952 -0.008313 -0.013201 0.032126 0.006616</velocity>
-          <acceleration>6.54027 7.47113 0.696525 2.4191 0.797041 2.58916</acceleration>
-          <wrench>98.104 112.067 10.4479 0 -0 0</wrench>
+          <pose>-17.618 13.1012 0.997394 -4e-06 -0.000221 -0.003385</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 -9.8 0 -0 -2e-06</acceleration>
+          <wrench>0 0 -147 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5'>
@@ -1591,8 +1538,8 @@
         <link name='link'>
           <pose>-5.04823 -13.7583 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 0 0 0 -0 0</acceleration>
-          <wrench>0 0 0 0 -0 0</wrench>
+          <acceleration>0 -0 -0 0 -0 0</acceleration>
+          <wrench>0 -0 -0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone'>
@@ -1601,8 +1548,8 @@
         <link name='link'>
           <pose>-5.06235 -13.0022 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0 0 -0 -0 -0 -0</acceleration>
-          <wrench>-0 0 -0 0 -0 0</wrench>
+          <acceleration>0 -0 -0 0 -0 0</acceleration>
+          <wrench>0 -0 -0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_0'>
@@ -1611,18 +1558,18 @@
         <link name='link'>
           <pose>4.06717 -10.8872 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 0 -0 0 -0 0</acceleration>
-          <wrench>0 0 -0 0 -0 0</wrench>
+          <acceleration>-0 -0 -0 0 -0 0</acceleration>
+          <wrench>-0 -0 -0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_1'>
-        <pose>-10.3483 -9.87985 0.383434 0 -1.3e-05 1.57085</pose>
+        <pose>-10.3483 -9.87984 0.383438 0 -0 1.57085</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-10.3483 -9.87985 0.383434 0 -1.3e-05 1.57085</pose>
-          <velocity>-3e-06 -0.004943 -0.004802 0.01289 -7e-06 0</velocity>
-          <acceleration>-0.006138 -0.234435 -9.40313 0.990654 -0.009812 -1.8e-05</acceleration>
-          <wrench>-0.092076 -3.51652 -141.047 0 -0 0</wrench>
+          <pose>-10.3483 -9.87984 0.383438 0 -0 1.57085</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>-0 0 -0 0 -0 0</acceleration>
+          <wrench>-0 0 -0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_10'>
@@ -1631,8 +1578,8 @@
         <link name='link'>
           <pose>6.22353 1.88647 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 0 0 0 -0 0</acceleration>
-          <wrench>0 0 0 0 -0 0</wrench>
+          <acceleration>-0 -0 -0 0 -0 0</acceleration>
+          <wrench>-0 -0 -0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_11'>
@@ -1641,8 +1588,8 @@
         <link name='link'>
           <pose>6.28685 1.12341 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 -0 -0 0 -0 0</acceleration>
-          <wrench>0 -0 -0 0 -0 0</wrench>
+          <acceleration>-0 0 0 -0 -0 -0</acceleration>
+          <wrench>-0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_12'>
@@ -1651,8 +1598,8 @@
         <link name='link'>
           <pose>-5.67721 -0.873075 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0 -0 -0 0 -0 0</acceleration>
-          <wrench>-0 -0 -0 0 -0 0</wrench>
+          <acceleration>0 -0 0 0 -0 0</acceleration>
+          <wrench>0 -0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_13'>
@@ -1661,8 +1608,8 @@
         <link name='link'>
           <pose>-2.19685 2.00197 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0 0 -0 -0 -0 -0</acceleration>
-          <wrench>-0 0 -0 0 -0 0</wrench>
+          <acceleration>0 -0 -0 0 -0 0</acceleration>
+          <wrench>0 -0 -0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_14'>
@@ -1671,8 +1618,8 @@
         <link name='link'>
           <pose>-11.2186 2.92965 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0 0 0 -0 -0 -0</acceleration>
-          <wrench>-0 0 0 0 -0 0</wrench>
+          <acceleration>-0 -0 -0 0 -0 0</acceleration>
+          <wrench>-0 -0 -0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_15'>
@@ -1701,7 +1648,7 @@
         <link name='link'>
           <pose>-4.21639 6.06329 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0 0 0 0 -0 0</acceleration>
+          <acceleration>-0 0 0 -0 -0 -0</acceleration>
           <wrench>-0 0 0 0 -0 0</wrench>
         </link>
       </model>
@@ -1721,18 +1668,18 @@
         <link name='link'>
           <pose>-0.03112 7.15043 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 0 0 0 -0 0</acceleration>
-          <wrench>0 0 0 0 -0 0</wrench>
+          <acceleration>-0 -0 -0 0 -0 0</acceleration>
+          <wrench>-0 -0 -0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_2'>
-        <pose>-9.04688 -9.87985 0.383434 0 -1.3e-05 1.57085</pose>
+        <pose>-9.04688 -9.87984 0.383438 0 -0 1.57085</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-9.04688 -9.87985 0.383434 0 -1.3e-05 1.57085</pose>
-          <velocity>-3e-06 -0.004943 -0.004802 0.01289 -7e-06 0</velocity>
-          <acceleration>-0.006138 -0.234435 -9.40313 0.990654 -0.009812 -1.8e-05</acceleration>
-          <wrench>-0.092076 -3.51652 -141.047 0 -0 0</wrench>
+          <pose>-9.04688 -9.87984 0.383438 0 -0 1.57085</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>-0 0 -0 0 -0 0</acceleration>
+          <wrench>-0 0 -0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_20'>
@@ -1741,8 +1688,8 @@
         <link name='link'>
           <pose>-3.31997 7.24294 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0 -0 -0 0 -0 0</acceleration>
-          <wrench>-0 -0 -0 0 -0 0</wrench>
+          <acceleration>-0 0 -0 -0 -0 -0</acceleration>
+          <wrench>-0 0 -0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_21'>
@@ -1751,8 +1698,8 @@
         <link name='link'>
           <pose>-7.72138 10.0718 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0 -0 -0 0 -0 0</acceleration>
-          <wrench>-0 -0 -0 0 -0 0</wrench>
+          <acceleration>0 0 -0 0 -0 0</acceleration>
+          <wrench>0 0 -0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_22'>
@@ -1761,8 +1708,8 @@
         <link name='link'>
           <pose>7.86278 9.9374 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0 -0 0 0 -0 0</acceleration>
-          <wrench>-0 -0 0 0 -0 0</wrench>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_23'>
@@ -1771,8 +1718,8 @@
         <link name='link'>
           <pose>9.50171 11.0764 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 -0 -0 0 -0 0</acceleration>
-          <wrench>0 -0 -0 0 -0 0</wrench>
+          <acceleration>-0 0 0 -0 -0 -0</acceleration>
+          <wrench>-0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_24'>
@@ -1781,8 +1728,8 @@
         <link name='link'>
           <pose>9.56595 11.8328 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 -0 -0 0 -0 0</acceleration>
-          <wrench>0 -0 -0 0 -0 0</wrench>
+          <acceleration>-0 0 0 -0 -0 -0</acceleration>
+          <wrench>-0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_25'>
@@ -1791,8 +1738,8 @@
         <link name='link'>
           <pose>3.9177 11.243 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 -0 0 0 -0 0</acceleration>
-          <wrench>0 -0 0 0 -0 0</wrench>
+          <acceleration>0 -0 -0 0 -0 0</acceleration>
+          <wrench>0 -0 -0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_26'>
@@ -1801,18 +1748,18 @@
         <link name='link'>
           <pose>-2.17649 11.263 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0 -0 -0 0 -0 0</acceleration>
-          <wrench>-0 -0 -0 0 -0 0</wrench>
+          <acceleration>-0 -0 0 0 -0 0</acceleration>
+          <wrench>-0 -0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_27'>
-        <pose>0.612798 15.165 0.383436 0 -6e-06 1.57088</pose>
+        <pose>0.612798 15.165 0.383438 0 -0 1.57088</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>0.612798 15.165 0.383436 0 -6e-06 1.57088</pose>
-          <velocity>2e-06 -0.002369 -0.002308 0.006179 5e-06 1e-06</velocity>
-          <acceleration>-2.02722 -3.05544 -4.62612 -2.78645 0.118912 -3.14087</acceleration>
-          <wrench>-30.4083 -45.8315 -69.3918 0 -0 0</wrench>
+          <pose>0.612798 15.165 0.383438 0 -0 1.57088</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>-0 0 0 0 -0 0</acceleration>
+          <wrench>-0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_28'>
@@ -1821,8 +1768,8 @@
         <link name='link'>
           <pose>-9.23292 15.0247 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 -0 -0 0 -0 0</acceleration>
-          <wrench>0 -0 -0 0 -0 0</wrench>
+          <acceleration>-0 0 0 -0 -0 -0</acceleration>
+          <wrench>-0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_29'>
@@ -1831,8 +1778,8 @@
         <link name='link'>
           <pose>-4.57712 15.0248 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0 -0 -0 0 -0 0</acceleration>
-          <wrench>-0 -0 -0 0 -0 0</wrench>
+          <acceleration>0 -0 -0 0 -0 0</acceleration>
+          <wrench>0 -0 -0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_3'>
@@ -1841,8 +1788,8 @@
         <link name='link'>
           <pose>-2.54038 -6.392 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0 -0 -0 0 -0 0</acceleration>
-          <wrench>-0 -0 -0 0 -0 0</wrench>
+          <acceleration>0 -0 -0 0 -0 0</acceleration>
+          <wrench>0 -0 -0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_4'>
@@ -1851,8 +1798,8 @@
         <link name='link'>
           <pose>-2.51466 -7.17386 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0 -0 -0 0 -0 0</acceleration>
-          <wrench>-0 -0 -0 0 -0 0</wrench>
+          <acceleration>0 -0 -0 0 -0 0</acceleration>
+          <wrench>0 -0 -0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_5'>
@@ -1870,9 +1817,9 @@
         <scale>1 1 1</scale>
         <link name='link'>
           <pose>9.28894 -5.44985 0.383438 0 -0 1.57077</pose>
-          <velocity>0.002025 -0.000656 0.002341 0.001711 0.005282 -0</velocity>
-          <acceleration>4.25875 0.175903 6.43759 -2.07199 0.231836 0.556691</acceleration>
-          <wrench>63.8812 2.63855 96.5638 0 -0 0</wrench>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>-0 0 -0 -0 -0 -0</acceleration>
+          <wrench>-0 0 -0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_7'>
@@ -1881,18 +1828,18 @@
         <link name='link'>
           <pose>4.14763 -5.3569 0.383438 0 -0 1.5709</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0 -0 -0 0 -0 0</acceleration>
-          <wrench>-0 -0 -0 0 -0 0</wrench>
+          <acceleration>-0 0 0 -0 -0 -0</acceleration>
+          <wrench>-0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_8'>
-        <pose>-4.5286 -2.14478 0.383439 0 -0 1.57055</pose>
+        <pose>-4.5286 -2.14477 0.383438 0 -0 1.57055</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-4.5286 -2.14478 0.383439 0 -0 1.57055</pose>
-          <velocity>-1e-06 0.004301 0.004201 -0.011217 -3e-06 0</velocity>
-          <acceleration>1.8e-05 8.61325 8.40167 1.27189 0.003485 6.7e-05</acceleration>
-          <wrench>0.00027 129.199 126.025 0 -0 0</wrench>
+          <pose>-4.5286 -2.14477 0.383438 0 -0 1.57055</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 -0 0 0 -0 0</acceleration>
+          <wrench>0 -0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='payload_box_clone_5_clone_9'>
@@ -1900,79 +1847,219 @@
         <scale>1 1 1</scale>
         <link name='link'>
           <pose>-4.53812 -2.89186 0.383438 0 -0 1.57051</pose>
-          <velocity>2e-06 0.002367 0.002306 -0.006174 6e-06 0</velocity>
-          <acceleration>0.005017 4.73497 4.61202 -1.17508 0.009641 0.000715</acceleration>
-          <wrench>0.075261 71.0245 69.1803 0 -0 0</wrench>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>-0.000118 0.000185 0 -0.000782 -0.00019 -0</acceleration>
+          <wrench>-0.001774 0.002775 0 0 -0 0</wrench>
         </link>
       </model>
-      <model name='stand_1'>
-        <pose>-17.6281 4.46335 -3e-06 1.2e-05 1e-06 -1.58718</pose>
-        <scale>1 1 1</scale>
-        <link name='base_link'>
-          <pose>-17.6281 4.46335 -3e-06 1.2e-05 1e-06 -1.58718</pose>
-          <velocity>0.000989 0.000663 -0.002732 0.001299 -0.011829 -0.001935</velocity>
-          <acceleration>0.975536 0.63419 -7.21259 0.21041 -1.21848 -1.9004</acceleration>
-          <wrench>24.3884 15.8548 -180.315 0 -0 0</wrench>
-        </link>
-      </model>
-      <model name='stand_1_clone'>
-        <pose>-17.5795 8.4682 -2e-06 5e-06 -0 -1.58628</pose>
-        <scale>1 1 1</scale>
-        <link name='base_link'>
-          <pose>-17.5795 8.4682 -2e-06 5e-06 -0 -1.58628</pose>
-          <velocity>6.7e-05 5.3e-05 -0.001533 0.000275 -0.005103 -0.00011</velocity>
-          <acceleration>0.063058 0.023865 -4.42724 0.283624 1.24561 -0.086137</acceleration>
-          <wrench>1.57646 0.596623 -110.681 0 -0 0</wrench>
-        </link>
-      </model>
-      <model name='stand_1_clone_0'>
+      <model name='stand_1_clone_0_legs'>
         <pose>-17.6066 13.1094 0 1e-06 0 -1.58633</pose>
         <scale>1 1 1</scale>
-        <link name='base_link'>
+        <link name='walls_link'>
           <pose>-17.6066 13.1094 0 1e-06 0 -1.58633</pose>
-          <velocity>-1e-06 -0 0.008923 0.003743 -0.006657 1e-06</velocity>
-          <acceleration>-0.000595 0.000225 18.4715 1.58207 0.080036 -3.14037</acceleration>
-          <wrench>-0.014863 0.005624 461.787 0 -0 0</wrench>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
-      <model name='stand_1_clone_1'>
+      <model name='stand_1_clone_0_legs_clone'>
+        <pose>18 13.0905 0 0 0 -1.58633</pose>
+        <scale>1 1 1</scale>
+        <link name='walls_link'>
+          <pose>18 13.0905 0 0 0 -1.58633</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='stand_1_clone_0_top'>
+        <pose>-17.6066 13.1092 -4.4e-05 4.2e-05 8e-06 -1.5862</pose>
+        <scale>1 1 1</scale>
+        <link name='top_link'>
+          <pose>-17.6066 13.1092 -4.4e-05 4.2e-05 8e-06 -1.5862</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>2.61401 -1.01262 -19.6906 0.696068 0.378262 -3.14154</acceleration>
+          <wrench>26.1401 -10.1262 -196.906 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='stand_1_clone_1_legs'>
         <pose>-17.7499 0.31944 -2e-06 5e-06 -1e-06 -1.58624</pose>
         <scale>1 1 1</scale>
-        <link name='base_link'>
+        <link name='walls_link'>
           <pose>-17.7499 0.31944 -2e-06 5e-06 -1e-06 -1.58624</pose>
-          <velocity>4e-06 2.5e-05 -0.00164 -0.001715 -0.007157 -3.2e-05</velocity>
-          <acceleration>-0.006265 0.031556 -3.12701 0.491613 -0.081635 3.10945</acceleration>
-          <wrench>-0.156637 0.78889 -78.1751 0 -0 0</wrench>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
-      <model name='stand_1_clone_2'>
+      <model name='stand_1_clone_1_legs_clone'>
+        <pose>18 0.302234 -2e-06 4e-06 -1e-06 -1.58624</pose>
+        <scale>1 1 1</scale>
+        <link name='walls_link'>
+          <pose>18 0.302234 -2e-06 4e-06 -1e-06 -1.58624</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='stand_1_clone_1_top'>
+        <pose>-17.75 0.31932 -8e-06 -7e-06 -1e-06 -1.58613</pose>
+        <scale>1 1 1</scale>
+        <link name='top_link'>
+          <pose>-17.75 0.31932 -8e-06 -7e-06 -1e-06 -1.58613</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>-5.65231 0.257452 -6.39183 -2.67275 1.48513 -3.12819</acceleration>
+          <wrench>-56.5231 2.57452 -63.9183 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='stand_1_clone_2_legs'>
         <pose>-17.6177 -3.70917 -5e-06 1.8e-05 -0 -1.58623</pose>
         <scale>1 1 1</scale>
-        <link name='base_link'>
+        <link name='walls_link'>
           <pose>-17.6177 -3.70917 -5e-06 1.8e-05 -0 -1.58623</pose>
-          <velocity>3e-06 -5e-06 -0.004171 -7.4e-05 -0.015133 8e-06</velocity>
-          <acceleration>8.2e-05 -0.003728 -8.36642 -0.515573 0.718121 0.012034</acceleration>
-          <wrench>0.002049 -0.093194 -209.161 0 -0 0</wrench>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
-      <model name='stand_1_clone_3'>
+      <model name='stand_1_clone_2_legs_clone'>
+        <pose>18 -3.72649 -5e-06 1.7e-05 -0 -1.58623</pose>
+        <scale>1 1 1</scale>
+        <link name='walls_link'>
+          <pose>18 -3.72649 -5e-06 1.7e-05 -0 -1.58623</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='stand_1_clone_2_top'>
+        <pose>-17.6177 -3.70921 -7e-05 -2.6e-05 1.6e-05 -1.58613</pose>
+        <scale>1 1 1</scale>
+        <link name='top_link'>
+          <pose>-17.6177 -3.70921 -7e-05 -2.6e-05 1.6e-05 -1.58613</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>-2.47521 -1.4654 -20.1954 0.124803 0.547794 -3.05814</acceleration>
+          <wrench>-24.7521 -14.654 -201.954 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='stand_1_clone_3_legs'>
         <pose>-17.5863 -7.964 -7e-06 0 1.5e-05 -1.58655</pose>
         <scale>1 1 1</scale>
-        <link name='base_link'>
+        <link name='walls_link'>
           <pose>-17.5863 -7.964 -7e-06 0 1.5e-05 -1.58655</pose>
-          <velocity>-0 -0 -0.00652 0.018499 -0.002529 0</velocity>
-          <acceleration>-0.034546 -0.029285 -5.46096 0.220259 -0.814694 3.0692</acceleration>
-          <wrench>-0.86366 -0.732129 -136.524 0 -0 0</wrench>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
-      <model name='stand_1_clone_4'>
+      <model name='stand_1_clone_3_legs_clone'>
+        <pose>18 -7.98293 -7e-06 -0 1.4e-05 -1.58655</pose>
+        <scale>1 1 1</scale>
+        <link name='walls_link'>
+          <pose>18 -7.98293 -7e-06 -0 1.4e-05 -1.58655</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='stand_1_clone_3_top'>
+        <pose>-17.5863 -7.96415 -1.4e-05 -7e-06 2e-05 -1.58646</pose>
+        <scale>1 1 1</scale>
+        <link name='top_link'>
+          <pose>-17.5863 -7.96415 -1.4e-05 -7e-06 2e-05 -1.58646</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>-3.06962 2.75499 -7.35152 -2.65634 -0.783454 0.27611</acceleration>
+          <wrench>-30.6962 27.5499 -73.5152 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='stand_1_clone_4_legs'>
         <pose>-17.6339 -12.1584 0 3e-06 2e-06 -1.58716</pose>
         <scale>1 1 1</scale>
-        <link name='base_link'>
+        <link name='walls_link'>
           <pose>-17.6339 -12.1584 0 3e-06 2e-06 -1.58716</pose>
-          <velocity>1.9e-05 -4.7e-05 0.005211 -0.00695 -0.001408 -7.8e-05</velocity>
-          <acceleration>0.116926 -0.048896 10.1042 -2.12523 -1.55037 -3.09849</acceleration>
-          <wrench>2.92314 -1.22239 252.604 0 -0 0</wrench>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='stand_1_clone_4_legs_clone'>
+        <pose>18 -12.15 0 3e-06 3e-06 -1.58716</pose>
+        <scale>1 1 1</scale>
+        <link name='walls_link'>
+          <pose>18 -12.15 0 3e-06 3e-06 -1.58716</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='stand_1_clone_4_top'>
+        <pose>-17.634 -12.1586 -1.1e-05 7e-06 1.5e-05 -1.58702</pose>
+        <scale>1 1 1</scale>
+        <link name='top_link'>
+          <pose>-17.634 -12.1586 -1.1e-05 7e-06 1.5e-05 -1.58702</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>3.16057 4.55604 -10.4812 0.311983 0.128801 -0.023573</acceleration>
+          <wrench>31.6057 45.5604 -104.812 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='stand_1_clone_legs'>
+        <pose>-17.5795 8.4682 -2e-06 5e-06 -0 -1.58628</pose>
+        <scale>1 1 1</scale>
+        <link name='walls_link'>
+          <pose>-17.5795 8.4682 -2e-06 5e-06 -0 -1.58628</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='stand_1_clone_legs_clone'>
+        <pose>18 8.45245 -2e-06 6e-06 0 -1.58628</pose>
+        <scale>1 1 1</scale>
+        <link name='walls_link'>
+          <pose>18 8.45245 -2e-06 6e-06 0 -1.58628</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='stand_1_clone_top'>
+        <pose>-17.5797 8.46804 -2e-06 -1e-05 1.3e-05 -1.58617</pose>
+        <scale>1 1 1</scale>
+        <link name='top_link'>
+          <pose>-17.5797 8.46804 -2e-06 -1e-05 1.3e-05 -1.58617</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>-5.01581 7.428 5.25038 -1.98911 -1.07454 0.06177</acceleration>
+          <wrench>-50.1581 74.28 52.5038 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='stand_1_legs'>
+        <pose>-17.6281 4.46335 -3e-06 1.2e-05 1e-06 -1.58718</pose>
+        <scale>1 1 1</scale>
+        <link name='walls_link'>
+          <pose>-17.6281 4.46335 -3e-06 1.2e-05 1e-06 -1.58718</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='stand_1_legs_clone'>
+        <pose>18 4.44507 -3e-06 1.3e-05 2e-06 -1.58718</pose>
+        <scale>1 1 1</scale>
+        <link name='walls_link'>
+          <pose>18 4.44507 -3e-06 1.3e-05 2e-06 -1.58718</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='stand_1_top'>
+        <pose>-17.6282 4.46319 -1.1e-05 1.2e-05 -1e-05 -1.58698</pose>
+        <scale>1 1 1</scale>
+        <link name='top_link'>
+          <pose>-17.6282 4.46319 -1.1e-05 1.2e-05 -1e-05 -1.58698</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0.824103 -8.69702 -2.40916 1.26981 0.26056 -0.835899</acceleration>
+          <wrench>8.24103 -86.9702 -24.0916 0 -0 0</wrench>
         </link>
       </model>
       <light name='sun'>
@@ -1981,19 +2068,19 @@
     </state>
     <gui fullscreen='0'>
       <camera name='user_camera'>
-        <pose>34.0298 -21.1932 34.1932 0 0.701796 2.65868</pose>
+        <pose>38.2938 -33.1973 36.9714 -0 0.629796 2.34658</pose>
         <view_controller>orbit</view_controller>
         <projection_type>perspective</projection_type>
       </camera>
     </gui>
-    <model name='stand_1_clone'>
-      <static>0</static>
-      <link name='base_link'>
-        <collision name='top_plate_col'>
-          <pose>0 0 0.46 0 -0 0</pose>
+    <model name='stand_1_clone_legs'>
+      <static>1</static>
+      <link name='walls_link'>
+        <collision name='left_wall_col'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>1.6 1.2 0.02</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -2006,8 +2093,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -2015,62 +2102,24 @@
             </friction>
           </surface>
         </collision>
-        <visual name='top_plate_vis'>
-          <pose>0 0 0.46 0 -0 0</pose>
+        <visual name='left_wall_vis'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>1.6 1.2 0.02</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.72 0.72 0.75 1</ambient>
-            <diffuse>0.72 0.72 0.75 1</diffuse>
-            <specular>0.5 0.5 0.5 1</specular>
-          </material>
-        </visual>
-        <collision name='leg_fl_col'>
-          <pose>0.72 -0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <contact>
-              <ode/>
-            </contact>
-            <bounce/>
-            <friction>
-              <ode>
-                <mu>10</mu>
-                <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-          </surface>
-        </collision>
-        <visual name='leg_fl_vis'>
-          <pose>0.72 -0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <material>
             <ambient>0.6 0.6 0.63 1</ambient>
             <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
           </material>
         </visual>
-        <collision name='leg_fr_col'>
-          <pose>0.72  0.53 0.225 0 -0 0</pose>
+        <collision name='right_wall_col'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -2083,8 +2132,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -2092,92 +2141,17 @@
             </friction>
           </surface>
         </collision>
-        <visual name='leg_fr_vis'>
-          <pose>0.72  0.53 0.225 0 -0 0</pose>
+        <visual name='right_wall_vis'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <material>
             <ambient>0.6 0.6 0.63 1</ambient>
             <diffuse>0.6 0.6 0.63 1</diffuse>
-          </material>
-        </visual>
-        <collision name='leg_rl_col'>
-          <pose>-0.72 -0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <contact>
-              <ode/>
-            </contact>
-            <bounce/>
-            <friction>
-              <ode>
-                <mu>10</mu>
-                <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-          </surface>
-        </collision>
-        <visual name='leg_rl_vis'>
-          <pose>-0.72 -0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.6 0.6 0.63 1</ambient>
-            <diffuse>0.6 0.6 0.63 1</diffuse>
-          </material>
-        </visual>
-        <collision name='leg_rr_col'>
-          <pose>-0.72  0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <contact>
-              <ode/>
-            </contact>
-            <bounce/>
-            <friction>
-              <ode>
-                <mu>10</mu>
-                <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-          </surface>
-        </collision>
-        <visual name='leg_rr_vis'>
-          <pose>-0.72  0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.6 0.6 0.63 1</ambient>
-            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
           </material>
         </visual>
         <inertial>
@@ -2198,9 +2172,9 @@
       </link>
       <pose>-17.5794 8.46816 -1.2e-05 0 -2.5e-05 -1.58611</pose>
     </model>
-    <model name='stand_1_clone_0'>
+    <model name='stand_1_clone_top'>
       <static>0</static>
-      <link name='base_link'>
+      <link name='top_link'>
         <collision name='top_plate_col'>
           <pose>0 0 0.46 0 -0 0</pose>
           <geometry>
@@ -2218,8 +2192,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -2240,11 +2214,32 @@
             <specular>0.5 0.5 0.5 1</specular>
           </material>
         </visual>
-        <collision name='leg_fl_col'>
-          <pose>0.72 -0.53 0.225 0 -0 0</pose>
+        <inertial>
+          <mass>10</mass>
+          <inertia>
+            <ixx>0.8</ixx>
+            <iyy>1.3</iyy>
+            <izz>2</izz>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyz>0</iyz>
+          </inertia>
+          <pose>0 0 0 0 -0 0</pose>
+        </inertial>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>-17.5794 8.46816 -1.2e-05 0 -2.5e-05 -1.58611</pose>
+    </model>
+    <model name='stand_1_clone_0_legs'>
+      <static>1</static>
+      <link name='walls_link'>
+        <collision name='left_wall_col'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -2257,8 +2252,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -2266,23 +2261,24 @@
             </friction>
           </surface>
         </collision>
-        <visual name='leg_fl_vis'>
-          <pose>0.72 -0.53 0.225 0 -0 0</pose>
+        <visual name='left_wall_vis'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <material>
             <ambient>0.6 0.6 0.63 1</ambient>
             <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
           </material>
         </visual>
-        <collision name='leg_fr_col'>
-          <pose>0.72  0.53 0.225 0 -0 0</pose>
+        <collision name='right_wall_col'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -2295,8 +2291,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -2304,92 +2300,17 @@
             </friction>
           </surface>
         </collision>
-        <visual name='leg_fr_vis'>
-          <pose>0.72  0.53 0.225 0 -0 0</pose>
+        <visual name='right_wall_vis'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <material>
             <ambient>0.6 0.6 0.63 1</ambient>
             <diffuse>0.6 0.6 0.63 1</diffuse>
-          </material>
-        </visual>
-        <collision name='leg_rl_col'>
-          <pose>-0.72 -0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <contact>
-              <ode/>
-            </contact>
-            <bounce/>
-            <friction>
-              <ode>
-                <mu>10</mu>
-                <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-          </surface>
-        </collision>
-        <visual name='leg_rl_vis'>
-          <pose>-0.72 -0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.6 0.6 0.63 1</ambient>
-            <diffuse>0.6 0.6 0.63 1</diffuse>
-          </material>
-        </visual>
-        <collision name='leg_rr_col'>
-          <pose>-0.72  0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <contact>
-              <ode/>
-            </contact>
-            <bounce/>
-            <friction>
-              <ode>
-                <mu>10</mu>
-                <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-          </surface>
-        </collision>
-        <visual name='leg_rr_vis'>
-          <pose>-0.72  0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.6 0.6 0.63 1</ambient>
-            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
           </material>
         </visual>
         <inertial>
@@ -2410,9 +2331,9 @@
       </link>
       <pose>-17.6066 13.1095 -1.6e-05 0 3.4e-05 -1.58612</pose>
     </model>
-    <model name='stand_1_clone_1'>
+    <model name='stand_1_clone_0_top'>
       <static>0</static>
-      <link name='base_link'>
+      <link name='top_link'>
         <collision name='top_plate_col'>
           <pose>0 0 0.46 0 -0 0</pose>
           <geometry>
@@ -2430,8 +2351,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -2452,11 +2373,32 @@
             <specular>0.5 0.5 0.5 1</specular>
           </material>
         </visual>
-        <collision name='leg_fl_col'>
-          <pose>0.72 -0.53 0.225 0 -0 0</pose>
+        <inertial>
+          <mass>10</mass>
+          <inertia>
+            <ixx>0.8</ixx>
+            <iyy>1.3</iyy>
+            <izz>2</izz>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyz>0</iyz>
+          </inertia>
+          <pose>0 0 0 0 -0 0</pose>
+        </inertial>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>-17.6066 13.1095 -1.6e-05 0 3.4e-05 -1.58612</pose>
+    </model>
+    <model name='stand_1_clone_1_legs'>
+      <static>1</static>
+      <link name='walls_link'>
+        <collision name='left_wall_col'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -2469,8 +2411,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -2478,23 +2420,24 @@
             </friction>
           </surface>
         </collision>
-        <visual name='leg_fl_vis'>
-          <pose>0.72 -0.53 0.225 0 -0 0</pose>
+        <visual name='left_wall_vis'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <material>
             <ambient>0.6 0.6 0.63 1</ambient>
             <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
           </material>
         </visual>
-        <collision name='leg_fr_col'>
-          <pose>0.72  0.53 0.225 0 -0 0</pose>
+        <collision name='right_wall_col'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -2507,8 +2450,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -2516,92 +2459,17 @@
             </friction>
           </surface>
         </collision>
-        <visual name='leg_fr_vis'>
-          <pose>0.72  0.53 0.225 0 -0 0</pose>
+        <visual name='right_wall_vis'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <material>
             <ambient>0.6 0.6 0.63 1</ambient>
             <diffuse>0.6 0.6 0.63 1</diffuse>
-          </material>
-        </visual>
-        <collision name='leg_rl_col'>
-          <pose>-0.72 -0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <contact>
-              <ode/>
-            </contact>
-            <bounce/>
-            <friction>
-              <ode>
-                <mu>10</mu>
-                <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-          </surface>
-        </collision>
-        <visual name='leg_rl_vis'>
-          <pose>-0.72 -0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.6 0.6 0.63 1</ambient>
-            <diffuse>0.6 0.6 0.63 1</diffuse>
-          </material>
-        </visual>
-        <collision name='leg_rr_col'>
-          <pose>-0.72  0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <contact>
-              <ode/>
-            </contact>
-            <bounce/>
-            <friction>
-              <ode>
-                <mu>10</mu>
-                <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-          </surface>
-        </collision>
-        <visual name='leg_rr_vis'>
-          <pose>-0.72  0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.6 0.6 0.63 1</ambient>
-            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
           </material>
         </visual>
         <inertial>
@@ -2622,9 +2490,9 @@
       </link>
       <pose>-17.7498 0.319414 -1.7e-05 5e-06 3.1e-05 -1.58616</pose>
     </model>
-    <model name='stand_1_clone_2'>
+    <model name='stand_1_clone_1_top'>
       <static>0</static>
-      <link name='base_link'>
+      <link name='top_link'>
         <collision name='top_plate_col'>
           <pose>0 0 0.46 0 -0 0</pose>
           <geometry>
@@ -2642,8 +2510,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -2664,11 +2532,32 @@
             <specular>0.5 0.5 0.5 1</specular>
           </material>
         </visual>
-        <collision name='leg_fl_col'>
-          <pose>0.72 -0.53 0.225 0 -0 0</pose>
+        <inertial>
+          <mass>10</mass>
+          <inertia>
+            <ixx>0.8</ixx>
+            <iyy>1.3</iyy>
+            <izz>2</izz>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyz>0</iyz>
+          </inertia>
+          <pose>0 0 0 0 -0 0</pose>
+        </inertial>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>-17.7498 0.319414 -1.7e-05 5e-06 3.1e-05 -1.58616</pose>
+    </model>
+    <model name='stand_1_clone_2_legs'>
+      <static>1</static>
+      <link name='walls_link'>
+        <collision name='left_wall_col'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -2681,8 +2570,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -2690,23 +2579,24 @@
             </friction>
           </surface>
         </collision>
-        <visual name='leg_fl_vis'>
-          <pose>0.72 -0.53 0.225 0 -0 0</pose>
+        <visual name='left_wall_vis'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <material>
             <ambient>0.6 0.6 0.63 1</ambient>
             <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
           </material>
         </visual>
-        <collision name='leg_fr_col'>
-          <pose>0.72  0.53 0.225 0 -0 0</pose>
+        <collision name='right_wall_col'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -2719,8 +2609,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -2728,92 +2618,17 @@
             </friction>
           </surface>
         </collision>
-        <visual name='leg_fr_vis'>
-          <pose>0.72  0.53 0.225 0 -0 0</pose>
+        <visual name='right_wall_vis'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <material>
             <ambient>0.6 0.6 0.63 1</ambient>
             <diffuse>0.6 0.6 0.63 1</diffuse>
-          </material>
-        </visual>
-        <collision name='leg_rl_col'>
-          <pose>-0.72 -0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <contact>
-              <ode/>
-            </contact>
-            <bounce/>
-            <friction>
-              <ode>
-                <mu>10</mu>
-                <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-          </surface>
-        </collision>
-        <visual name='leg_rl_vis'>
-          <pose>-0.72 -0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.6 0.6 0.63 1</ambient>
-            <diffuse>0.6 0.6 0.63 1</diffuse>
-          </material>
-        </visual>
-        <collision name='leg_rr_col'>
-          <pose>-0.72  0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <contact>
-              <ode/>
-            </contact>
-            <bounce/>
-            <friction>
-              <ode>
-                <mu>10</mu>
-                <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-          </surface>
-        </collision>
-        <visual name='leg_rr_vis'>
-          <pose>-0.72  0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.6 0.6 0.63 1</ambient>
-            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
           </material>
         </visual>
         <inertial>
@@ -2834,9 +2649,9 @@
       </link>
       <pose>-17.6177 -3.70918 -0 0 -0 -1.58624</pose>
     </model>
-    <model name='stand_1_clone_3'>
+    <model name='stand_1_clone_2_top'>
       <static>0</static>
-      <link name='base_link'>
+      <link name='top_link'>
         <collision name='top_plate_col'>
           <pose>0 0 0.46 0 -0 0</pose>
           <geometry>
@@ -2854,8 +2669,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -2876,11 +2691,32 @@
             <specular>0.5 0.5 0.5 1</specular>
           </material>
         </visual>
-        <collision name='leg_fl_col'>
-          <pose>0.72 -0.53 0.225 0 -0 0</pose>
+        <inertial>
+          <mass>10</mass>
+          <inertia>
+            <ixx>0.8</ixx>
+            <iyy>1.3</iyy>
+            <izz>2</izz>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyz>0</iyz>
+          </inertia>
+          <pose>0 0 0 0 -0 0</pose>
+        </inertial>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>-17.6177 -3.70918 -0 0 -0 -1.58624</pose>
+    </model>
+    <model name='stand_1_clone_3_legs'>
+      <static>1</static>
+      <link name='walls_link'>
+        <collision name='left_wall_col'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -2893,8 +2729,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -2902,23 +2738,24 @@
             </friction>
           </surface>
         </collision>
-        <visual name='leg_fl_vis'>
-          <pose>0.72 -0.53 0.225 0 -0 0</pose>
+        <visual name='left_wall_vis'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <material>
             <ambient>0.6 0.6 0.63 1</ambient>
             <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
           </material>
         </visual>
-        <collision name='leg_fr_col'>
-          <pose>0.72  0.53 0.225 0 -0 0</pose>
+        <collision name='right_wall_col'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -2931,8 +2768,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -2940,92 +2777,17 @@
             </friction>
           </surface>
         </collision>
-        <visual name='leg_fr_vis'>
-          <pose>0.72  0.53 0.225 0 -0 0</pose>
+        <visual name='right_wall_vis'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <material>
             <ambient>0.6 0.6 0.63 1</ambient>
             <diffuse>0.6 0.6 0.63 1</diffuse>
-          </material>
-        </visual>
-        <collision name='leg_rl_col'>
-          <pose>-0.72 -0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <contact>
-              <ode/>
-            </contact>
-            <bounce/>
-            <friction>
-              <ode>
-                <mu>10</mu>
-                <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-          </surface>
-        </collision>
-        <visual name='leg_rl_vis'>
-          <pose>-0.72 -0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.6 0.6 0.63 1</ambient>
-            <diffuse>0.6 0.6 0.63 1</diffuse>
-          </material>
-        </visual>
-        <collision name='leg_rr_col'>
-          <pose>-0.72  0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <contact>
-              <ode/>
-            </contact>
-            <bounce/>
-            <friction>
-              <ode>
-                <mu>10</mu>
-                <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-          </surface>
-        </collision>
-        <visual name='leg_rr_vis'>
-          <pose>-0.72  0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.6 0.6 0.63 1</ambient>
-            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
           </material>
         </visual>
         <inertial>
@@ -3046,9 +2808,9 @@
       </link>
       <pose>-17.5863 -7.96394 -7e-06 0 -1.5e-05 -1.58631</pose>
     </model>
-    <model name='stand_1_clone_4'>
+    <model name='stand_1_clone_3_top'>
       <static>0</static>
-      <link name='base_link'>
+      <link name='top_link'>
         <collision name='top_plate_col'>
           <pose>0 0 0.46 0 -0 0</pose>
           <geometry>
@@ -3066,8 +2828,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -3088,11 +2850,32 @@
             <specular>0.5 0.5 0.5 1</specular>
           </material>
         </visual>
-        <collision name='leg_fl_col'>
-          <pose>0.72 -0.53 0.225 0 -0 0</pose>
+        <inertial>
+          <mass>10</mass>
+          <inertia>
+            <ixx>0.8</ixx>
+            <iyy>1.3</iyy>
+            <izz>2</izz>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyz>0</iyz>
+          </inertia>
+          <pose>0 0 0 0 -0 0</pose>
+        </inertial>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>-17.5863 -7.96394 -7e-06 0 -1.5e-05 -1.58631</pose>
+    </model>
+    <model name='stand_1_clone_4_legs'>
+      <static>1</static>
+      <link name='walls_link'>
+        <collision name='left_wall_col'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -3105,8 +2888,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -3114,23 +2897,24 @@
             </friction>
           </surface>
         </collision>
-        <visual name='leg_fl_vis'>
-          <pose>0.72 -0.53 0.225 0 -0 0</pose>
+        <visual name='left_wall_vis'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <material>
             <ambient>0.6 0.6 0.63 1</ambient>
             <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
           </material>
         </visual>
-        <collision name='leg_fr_col'>
-          <pose>0.72  0.53 0.225 0 -0 0</pose>
+        <collision name='right_wall_col'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -3143,8 +2927,8 @@
               <ode>
                 <mu>10</mu>
                 <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
               </ode>
               <torsional>
                 <ode/>
@@ -3152,92 +2936,17 @@
             </friction>
           </surface>
         </collision>
-        <visual name='leg_fr_vis'>
-          <pose>0.72  0.53 0.225 0 -0 0</pose>
+        <visual name='right_wall_vis'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
           <geometry>
             <box>
-              <size>0.1 0.1 0.45</size>
+              <size>0.1 1.06 0.45</size>
             </box>
           </geometry>
           <material>
             <ambient>0.6 0.6 0.63 1</ambient>
             <diffuse>0.6 0.6 0.63 1</diffuse>
-          </material>
-        </visual>
-        <collision name='leg_rl_col'>
-          <pose>-0.72 -0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <contact>
-              <ode/>
-            </contact>
-            <bounce/>
-            <friction>
-              <ode>
-                <mu>10</mu>
-                <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-          </surface>
-        </collision>
-        <visual name='leg_rl_vis'>
-          <pose>-0.72 -0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.6 0.6 0.63 1</ambient>
-            <diffuse>0.6 0.6 0.63 1</diffuse>
-          </material>
-        </visual>
-        <collision name='leg_rr_col'>
-          <pose>-0.72  0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <contact>
-              <ode/>
-            </contact>
-            <bounce/>
-            <friction>
-              <ode>
-                <mu>10</mu>
-                <mu2>10</mu2>
-                <slip1>0.0</slip1>
-                <slip2>0.0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-          </surface>
-        </collision>
-        <visual name='leg_rr_vis'>
-          <pose>-0.72  0.53 0.225 0 -0 0</pose>
-          <geometry>
-            <box>
-              <size>0.1 0.1 0.45</size>
-            </box>
-          </geometry>
-          <material>
-            <ambient>0.6 0.6 0.63 1</ambient>
-            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
           </material>
         </visual>
         <inertial>
@@ -3246,6 +2955,66 @@
             <ixx>1.4</ixx>
             <iyy>2.1</iyy>
             <izz>3.2</izz>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyz>0</iyz>
+          </inertia>
+          <pose>0 0 0 0 -0 0</pose>
+        </inertial>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>-17.3787 -12.1683 -5e-06 1.9e-05 -0 -1.58639</pose>
+    </model>
+    <model name='stand_1_clone_4_top'>
+      <static>0</static>
+      <link name='top_link'>
+        <collision name='top_plate_col'>
+          <pose>0 0 0.46 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>1.6 1.2 0.02</size>
+            </box>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <ode>
+                <mu>10</mu>
+                <mu2>10</mu2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='top_plate_vis'>
+          <pose>0 0 0.46 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>1.6 1.2 0.02</size>
+            </box>
+          </geometry>
+          <material>
+            <ambient>0.72 0.72 0.75 1</ambient>
+            <diffuse>0.72 0.72 0.75 1</diffuse>
+            <specular>0.5 0.5 0.5 1</specular>
+          </material>
+        </visual>
+        <inertial>
+          <mass>10</mass>
+          <inertia>
+            <ixx>0.8</ixx>
+            <iyy>1.3</iyy>
+            <izz>2</izz>
             <ixy>0</ixy>
             <ixz>0</ixz>
             <iyz>0</iyz>
@@ -7235,6 +7004,699 @@
       <static>0</static>
       <allow_auto_disable>1</allow_auto_disable>
       <pose>-4.57712 15.0248 0.383438 0 -0 1.5709</pose>
+    </model>
+    <model name='stand_1_clone_4_legs_clone'>
+      <static>1</static>
+      <link name='walls_link'>
+        <collision name='left_wall_col'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <ode>
+                <mu>10</mu>
+                <mu2>10</mu2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='left_wall_vis'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <material>
+            <ambient>0.6 0.6 0.63 1</ambient>
+            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
+          </material>
+        </visual>
+        <collision name='right_wall_col'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <ode>
+                <mu>10</mu>
+                <mu2>10</mu2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='right_wall_vis'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <material>
+            <ambient>0.6 0.6 0.63 1</ambient>
+            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
+          </material>
+        </visual>
+        <inertial>
+          <mass>25</mass>
+          <inertia>
+            <ixx>1.4</ixx>
+            <iyy>2.1</iyy>
+            <izz>3.2</izz>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyz>0</iyz>
+          </inertia>
+          <pose>0 0 0 0 -0 0</pose>
+        </inertial>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>-15.069 -12.0427 0 3e-06 2e-06 -1.58716</pose>
+    </model>
+    <model name='stand_1_clone_3_legs_clone'>
+      <static>1</static>
+      <link name='walls_link'>
+        <collision name='left_wall_col'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <ode>
+                <mu>10</mu>
+                <mu2>10</mu2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='left_wall_vis'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <material>
+            <ambient>0.6 0.6 0.63 1</ambient>
+            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
+          </material>
+        </visual>
+        <collision name='right_wall_col'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <ode>
+                <mu>10</mu>
+                <mu2>10</mu2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='right_wall_vis'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <material>
+            <ambient>0.6 0.6 0.63 1</ambient>
+            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
+          </material>
+        </visual>
+        <inertial>
+          <mass>25</mass>
+          <inertia>
+            <ixx>1.4</ixx>
+            <iyy>2.1</iyy>
+            <izz>3.2</izz>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyz>0</iyz>
+          </inertia>
+          <pose>0 0 0 0 -0 0</pose>
+        </inertial>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>-16.5107 -7.98293 -7e-06 0 1.5e-05 -1.58655</pose>
+    </model>
+    <model name='stand_1_clone_2_legs_clone'>
+      <static>1</static>
+      <link name='walls_link'>
+        <collision name='left_wall_col'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <ode>
+                <mu>10</mu>
+                <mu2>10</mu2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='left_wall_vis'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <material>
+            <ambient>0.6 0.6 0.63 1</ambient>
+            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
+          </material>
+        </visual>
+        <collision name='right_wall_col'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <ode>
+                <mu>10</mu>
+                <mu2>10</mu2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='right_wall_vis'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <material>
+            <ambient>0.6 0.6 0.63 1</ambient>
+            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
+          </material>
+        </visual>
+        <inertial>
+          <mass>25</mass>
+          <inertia>
+            <ixx>1.4</ixx>
+            <iyy>2.1</iyy>
+            <izz>3.2</izz>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyz>0</iyz>
+          </inertia>
+          <pose>0 0 0 0 -0 0</pose>
+        </inertial>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>-16.5522 -3.72649 -5e-06 1.8e-05 -0 -1.58623</pose>
+    </model>
+    <model name='stand_1_clone_1_legs_clone'>
+      <static>1</static>
+      <link name='walls_link'>
+        <collision name='left_wall_col'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <ode>
+                <mu>10</mu>
+                <mu2>10</mu2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='left_wall_vis'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <material>
+            <ambient>0.6 0.6 0.63 1</ambient>
+            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
+          </material>
+        </visual>
+        <collision name='right_wall_col'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <ode>
+                <mu>10</mu>
+                <mu2>10</mu2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='right_wall_vis'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <material>
+            <ambient>0.6 0.6 0.63 1</ambient>
+            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
+          </material>
+        </visual>
+        <inertial>
+          <mass>25</mass>
+          <inertia>
+            <ixx>1.4</ixx>
+            <iyy>2.1</iyy>
+            <izz>3.2</izz>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyz>0</iyz>
+          </inertia>
+          <pose>0 0 0 0 -0 0</pose>
+        </inertial>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>-16.6854 0.302234 -2e-06 5e-06 -1e-06 -1.58624</pose>
+    </model>
+    <model name='stand_1_legs_clone'>
+      <static>1</static>
+      <link name='walls_link'>
+        <collision name='left_wall_col'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <ode>
+                <mu>10</mu>
+                <mu2>10</mu2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='left_wall_vis'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <material>
+            <ambient>0.6 0.6 0.63 1</ambient>
+            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
+          </material>
+        </visual>
+        <collision name='right_wall_col'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <ode>
+                <mu>10</mu>
+                <mu2>10</mu2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='right_wall_vis'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <material>
+            <ambient>0.6 0.6 0.63 1</ambient>
+            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
+          </material>
+        </visual>
+        <inertial>
+          <mass>25</mass>
+          <inertia>
+            <ixx>1.4</ixx>
+            <iyy>2.1</iyy>
+            <izz>3.2</izz>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyz>0</iyz>
+          </inertia>
+          <pose>0 0 0 0 -0 0</pose>
+        </inertial>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>-16.5702 4.44507 -3e-06 1.2e-05 1e-06 -1.58718</pose>
+    </model>
+    <model name='stand_1_clone_legs_clone'>
+      <static>1</static>
+      <link name='walls_link'>
+        <collision name='left_wall_col'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <ode>
+                <mu>10</mu>
+                <mu2>10</mu2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='left_wall_vis'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <material>
+            <ambient>0.6 0.6 0.63 1</ambient>
+            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
+          </material>
+        </visual>
+        <collision name='right_wall_col'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <ode>
+                <mu>10</mu>
+                <mu2>10</mu2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='right_wall_vis'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <material>
+            <ambient>0.6 0.6 0.63 1</ambient>
+            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
+          </material>
+        </visual>
+        <inertial>
+          <mass>25</mass>
+          <inertia>
+            <ixx>1.4</ixx>
+            <iyy>2.1</iyy>
+            <izz>3.2</izz>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyz>0</iyz>
+          </inertia>
+          <pose>0 0 0 0 -0 0</pose>
+        </inertial>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>-16.519 8.45245 -2e-06 5e-06 -0 -1.58628</pose>
+    </model>
+    <model name='stand_1_clone_0_legs_clone'>
+      <static>1</static>
+      <link name='walls_link'>
+        <collision name='left_wall_col'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <ode>
+                <mu>10</mu>
+                <mu2>10</mu2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='left_wall_vis'>
+          <pose>0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <material>
+            <ambient>0.6 0.6 0.63 1</ambient>
+            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
+          </material>
+        </visual>
+        <collision name='right_wall_col'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <ode>
+                <mu>10</mu>
+                <mu2>10</mu2>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='right_wall_vis'>
+          <pose>-0.72 0 0.225 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.1 1.06 0.45</size>
+            </box>
+          </geometry>
+          <material>
+            <ambient>0.6 0.6 0.63 1</ambient>
+            <diffuse>0.6 0.6 0.63 1</diffuse>
+            <specular>0.3 0.3 0.3 1</specular>
+          </material>
+        </visual>
+        <inertial>
+          <mass>25</mass>
+          <inertia>
+            <ixx>1.4</ixx>
+            <iyy>2.1</iyy>
+            <izz>3.2</izz>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyz>0</iyz>
+          </inertia>
+          <pose>0 0 0 0 -0 0</pose>
+        </inertial>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose>-16.54 13.0905 0 1e-06 0 -1.58633</pose>
     </model>
   </world>
 </sdf>
