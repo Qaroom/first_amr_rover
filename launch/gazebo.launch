@@ -2,7 +2,7 @@
 <arg name="gui" default="true"/>
 
   <include file="$(find gazebo_ros)/launch/empty_world.launch">
-    <arg name="world_name" value="$(find first_amr_rover)/model/new_amr.world"/>
+    <!-- <arg name="world_name" value="$(find first_amr_rover)/model/small_factory_final.sdf"/> -->
     <arg name="paused" default="false"/>
     <arg name="use_sim_time" default="true"/>
     <arg name="gui" default="$(arg gui)"/>
@@ -39,5 +39,9 @@
   <param name="scan_destination_topic" value="/scan"/>
   <param name="laserscan_topics" 
          value="/scan0 /scan1"/>
+
+  <!-- <param name="angle_min" value="-2.3565"/>
+  <param name="angle_max" value="2.3565"/>
+  <param name="angle_increment" value="0.005799"/> -->
 </node>
 </launch>
