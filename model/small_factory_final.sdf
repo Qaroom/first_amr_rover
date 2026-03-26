@@ -88,6 +88,7 @@
       <heading_deg>0</heading_deg>
     </spherical_coordinates>
     <model name='small_factory'>
+      <static>1</static>
       <pose>-2.214 4.7895 0 0 -0 0</pose>
       <link name='Wall_10'>
         <collision name='Wall_10_Collision'>
@@ -110,6 +111,7 @@
               <ode/>
             </friction>
           </surface>
+          <laser_retro>100</laser_retro>
         </collision>
         <visual name='Wall_10_Visual'>
           <pose>0 0 0.75 0 -0 0</pose>
@@ -155,6 +157,7 @@
               <ode/>
             </friction>
           </surface>
+          <laser_retro>100</laser_retro>
         </collision>
         <visual name='Wall_11_Visual'>
           <pose>0 0 0.75 0 -0 0</pose>
@@ -200,6 +203,7 @@
               <ode/>
             </friction>
           </surface>
+          <laser_retro>100</laser_retro>
         </collision>
         <visual name='Wall_12_Visual'>
           <pose>0 0 0.75 0 -0 0</pose>
@@ -245,6 +249,7 @@
               <ode/>
             </friction>
           </surface>
+          <laser_retro>100</laser_retro>
         </collision>
         <visual name='Wall_13_Visual'>
           <pose>0 0 0.75 0 -0 0</pose>
@@ -290,6 +295,7 @@
               <ode/>
             </friction>
           </surface>
+          <laser_retro>100</laser_retro>
         </collision>
         <visual name='Wall_15_Visual'>
           <pose>0 0 0.75 0 -0 0</pose>
@@ -335,6 +341,7 @@
               <ode/>
             </friction>
           </surface>
+          <laser_retro>100</laser_retro>
         </collision>
         <visual name='Wall_17_Visual'>
           <pose>0 0 0.75 0 -0 0</pose>
@@ -380,6 +387,7 @@
               <ode/>
             </friction>
           </surface>
+          <laser_retro>100</laser_retro>
         </collision>
         <visual name='Wall_19_Visual'>
           <pose>0 0 0.75 0 -0 0</pose>
@@ -425,6 +433,7 @@
               <ode/>
             </friction>
           </surface>
+          <laser_retro>100</laser_retro>
         </collision>
         <visual name='Wall_21_Visual'>
           <pose>0 0 0.75 0 -0 0</pose>
@@ -470,6 +479,7 @@
               <ode/>
             </friction>
           </surface>
+          <laser_retro>100</laser_retro>
         </collision>
         <visual name='Wall_3_Visual'>
           <pose>0 0 0.75 0 -0 0</pose>
@@ -515,6 +525,7 @@
               <ode/>
             </friction>
           </surface>
+          <laser_retro>100</laser_retro>
         </collision>
         <visual name='Wall_4_Visual'>
           <pose>0 0 0.75 0 -0 0</pose>
@@ -560,6 +571,7 @@
               <ode/>
             </friction>
           </surface>
+          <laser_retro>100</laser_retro>
         </collision>
         <visual name='Wall_6_Visual'>
           <pose>0 0 0.75 0 -0 0</pose>
@@ -605,6 +617,7 @@
               <ode/>
             </friction>
           </surface>
+          <laser_retro>100</laser_retro>
         </collision>
         <visual name='Wall_8_Visual'>
           <pose>0 0 0.75 0 -0 0</pose>
@@ -1353,6 +1366,7 @@
             </friction>
             <bounce/>
           </surface>
+          <laser_retro>100</laser_retro>
         </collision>
         <visual name='left_wall_vis'>
           <pose>0.72 0 0.225 0 -0 0</pose>
@@ -1390,6 +1404,7 @@
             </friction>
             <bounce/>
           </surface>
+          <laser_retro>100</laser_retro>
         </collision>
         <visual name='right_wall_vis'>
           <pose>-0.72 0 0.225 0 -0 0</pose>
@@ -1448,6 +1463,7 @@
             </friction>
             <bounce/>
           </surface>
+          <laser_retro>100</laser_retro>
         </collision>
         <visual name='left_wall_vis'>
           <pose>0.72 0 0.225 0 -0 0</pose>
@@ -1485,6 +1501,7 @@
             </friction>
             <bounce/>
           </surface>
+          <laser_retro>100</laser_retro>
         </collision>
         <visual name='right_wall_vis'>
           <pose>-0.72 0 0.225 0 -0 0</pose>
@@ -1543,6 +1560,7 @@
             </friction>
             <bounce/>
           </surface>
+          <laser_retro>100</laser_retro>
         </collision>
         <visual name='left_wall_vis'>
           <pose>0.72 0 0.225 0 -0 0</pose>
@@ -1580,6 +1598,7 @@
             </friction>
             <bounce/>
           </surface>
+          <laser_retro>100</laser_retro>
         </collision>
         <visual name='right_wall_vis'>
           <pose>-0.72 0 0.225 0 -0 0</pose>
