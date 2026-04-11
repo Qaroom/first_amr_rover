@@ -4,8 +4,8 @@
 
   <include file="$(find gazebo_ros)/launch/empty_world.launch">
     <!-- <arg name="world_name" value="$(find first_amr_rover)/model/small_factory_final.sdf"/> -->
-    <!-- <arg name="world_name" value="$(find first_amr_rover)/model/new_amr.world"/> -->
-    <arg name="world_name" value="$(find first_amr_rover)/model/new_amr_with_drop.world"/>
+    <arg name="world_name" value="$(find first_amr_rover)/model/new_amr.world"/>
+    <!-- <arg name="world_name" value="$(find first_amr_rover)/model/new_amr_with_drop.world"/> -->
     <arg name="paused" default="false"/>
     <arg name="use_sim_time" default="true"/>
     <arg name="gui" default="$(arg gui)"/>
