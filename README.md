@@ -116,6 +116,3 @@ To use one of the other worlds (`small_factory_final.sdf`, `new_amr_with_drop.wo
 - **`CMakeLists.txt` only installs `config`, `launch`, `meshes`, `urdf`.** The `gazebo/`, `model/`, and `models/` folders are not copied into the install space, so launch files resolve their paths from the source tree. This works in a devel workspace but will break a pure install workspace — extend the install loop in `CMakeLists.txt` if you need a clean install.
 - **`package.xml` metadata is still placeholder.** `author`, `maintainer email`, and the absence of a `LICENSE` file should be filled in. The declared license is `BSD`.
 
-## License
-
-Released under the **BSD** license, as declared in `package.xml`.
